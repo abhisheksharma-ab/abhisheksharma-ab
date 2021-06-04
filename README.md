@@ -6,12 +6,22 @@
 
 
 
- <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> <i>I'm a Full Stack Developer</i> -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> 
+ <h1 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> <i>I'm a Full Stack Developer</i> -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1> 
+
+
+
+## Activity Stats 📈
+<p align="center">
+    <img
+          height="200em"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma-ab&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
+  <img
+        height="200em"
+   src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-ab&count_private=true&show_icons=true&hide_border=true&locale=en&theme=tokyonight" />
+ </p>
 
 <!---
 abhisheksharma-ab/abhisheksharma-ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma-ab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhisheksharma-ab" /></p>
 
