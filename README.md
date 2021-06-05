@@ -40,14 +40,16 @@
    <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma-ab&row=1&theme=monokai&no-frame=true&no-bg=true"        alt="AbhishekSharma51" /></a></p>
    
 ## Activity Stats 📈
+
 <p align="center">
     <img
-          height="180em"
+         height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma-ab&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
   <img
-        height="180em"
+       height="180em"
    src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-ab&count_private=true&show_icons=true&hide_border=true&locale=en&theme=tokyonight" />
  </p>
+ 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharma-ab&hide_border=true&show_icons=true&theme=tokyonight" alt="abhisheksharma-ab" height="180em" />
 </p>
