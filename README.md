@@ -28,6 +28,13 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
+## 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🤝
+
+<a href="https://www.linkedin.com/in/sharmaabhishek14/">
+  <img align="center" alt="Abhishek's Linkdein" height="40px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>&ensp;
+
+
 ## Github Profile Trophy 🏆
 
    <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma-ab&row=1&theme=monokai&no-frame=true&no-bg=true"        alt="AbhishekSharma51" /></a></p>
@@ -42,7 +49,7 @@
    src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-ab&count_private=true&show_icons=true&hide_border=true&locale=en&theme=tokyonight" />
  </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharma-ab&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksharma-ab&hide_border=true&show_icons=true&theme=tokyonight" alt="abhisheksharma-ab" height="180em" />
 </p>
 
 
