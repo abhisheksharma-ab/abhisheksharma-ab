@@ -9,7 +9,7 @@
 <br>
 <p align="left"> <img height="20" src="https://komarev.com/ghpvc/?username=abhisheksharma-ab&label=Profile%20Visitors&color=0e75b6&style=flat" alt="abhisheksharma-ab" /> </p>
 
-### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 🛠
+## 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 🛠
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -28,7 +28,10 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
+## Github Profile Trophy 🏆
 
+   <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma-ab&row=1&theme=monokai&no-frame=true&no-bg=true"        alt="AbhishekSharma51" /></a></p>
+   
 ## Activity Stats 📈
 <p align="center">
     <img
