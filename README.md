@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek Sharma
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi, I’m Abhishek Sharma
 - 👀 I’m interested in ... Github
 - 🌱 I’m currently learning ... Full Stack development
 - 💞️ I’m looking to collaborate on ... Backend and Frontend projects
@@ -97,5 +97,7 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
 <!---
 abhisheksharma-ab/abhisheksharma-ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 👋 Hi, I’m Abhishek Sharma
+
 --->
 
