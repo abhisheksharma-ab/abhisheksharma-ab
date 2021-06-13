@@ -41,7 +41,6 @@ Hackerrank                  -  [Check out!](https://www.hackerrank.com/Abhishek_
 Leet Code                   -  [Check out!](https://leetcode.com/abhisheksharma-ab/)<br/>
 Stackoverflow               -  [Check out!](https://stackoverflow.com/users/16019337/abhishek-sharma)<br/>
 
-
 ## Github Profile Trophy 🏆
 
    <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma-ab&row=1&theme=monokai&no-frame=true&no-bg=true"        alt="AbhishekSharma51" /></a></p>
