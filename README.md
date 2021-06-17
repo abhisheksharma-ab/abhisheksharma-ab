@@ -2,7 +2,7 @@
 - 👀 I’m interested in Github
 - 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on Backend and Frontend projects
-- 📫 How to reach me ... abhishek1643.cse18@chitkara.edu.in
+- 📫 How to reach me - abhishek1643.cse18@chitkara.edu.in
 
  <h1 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> <i>I'm a Full Stack Developer</i> -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1> 
 
