@@ -42,7 +42,7 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
 
 ## Github Profile Trophy 🏆
 
-   <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma-ab&row=1&theme=monokai&no-frame=true&no-bg=true"        alt="AbhishekSharma51" /></a></p>
+  <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksharma-ab&row=1&theme=monokai&no-frame=true&no-bg=true"        alt="AbhishekSharma51" /></a></p>
    
 ## Activity Stats 📈
 
