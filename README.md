@@ -70,7 +70,6 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
 <a href="https://github.com/abhisheksharma-ab/corona-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksharma-ab&repo=corona-app&hide_border=true&theme=tokyonight&line_height=35" />
 </a>
-
 <a href="https://github.com/abhisheksharma-ab/JPMorgan-Chase-Software-Engineering-Virtual-Internship">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksharma-ab&repo=JPMorgan-Chase-Software-Engineering-Virtual-Internship&hide_border=true&theme=tokyonight&line_height=35" />
 </a>
