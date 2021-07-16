@@ -74,7 +74,6 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
 </a>
 
 ### Contribution Graph
-
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=abhisheksharma-ab&theme=react-dark&hide_border=true" alt="Contribution Graph" align="center" />
 <div align="center">
