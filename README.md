@@ -73,7 +73,6 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksharma-ab&repo=JPMorgan-Chase-Software-Engineering-Virtual-Internship&hide_border=true&theme=tokyonight&line_height=35" />
 </a>
 
-
 ### Contribution Graph
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=abhisheksharma-ab&theme=react-dark&hide_border=true" alt="Contribution Graph" align="center" />
