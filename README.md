@@ -65,7 +65,6 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
 </a>
 <a href="https://github.com/abhisheksharma-ab/Coursera-UC_SanDiego-Object-Oriented-Programming-in-Java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksharma-ab&repo=Coursera-UC_SanDiego-Object-Oriented-Programming-in-Java&hide_border=true&theme=tokyonight&line_height=35" />
-  
 </a>
 <a href="https://github.com/abhisheksharma-ab/corona-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheksharma-ab&repo=corona-app&hide_border=true&theme=tokyonight&line_height=35" />
