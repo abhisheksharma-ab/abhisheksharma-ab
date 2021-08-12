@@ -6,7 +6,8 @@
  
 <h1 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> <i>I'm a Full Stack Developer</i> -<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1> 
 <br>
-<p align="left"> <img height="20" src="https://komarev.com/ghpvc/?username=abhisheksharma-ab&label=Profile%20Visitors&color=0e75b6&style=flat" alt="abhisheksharma-ab" /> </p>
+<p align="left"> <img height="20" src="https://komarev.com/ghpvc/?username=abhisheksharma-ab&label=Profile%20Visitors&color=0e75b6&style=flat" alt="abhisheksharma-ab" />
+</p>
 
 ## 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 🛠  
 
