@@ -34,7 +34,7 @@
 <img align="center" alt="Abhishek's Linkdein" height="40px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&ensp;
 
-## 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐💻
+## 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 💻
 
 Hackerrank                  -  [Check out!](https://www.hackerrank.com/Abhishek_14)<br/>
 Leet Code                   -  [Check out!](https://leetcode.com/abhisheksharma-ab/)<br/>
