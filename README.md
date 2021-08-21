@@ -50,7 +50,7 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
   <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma-ab&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
-   <img 
+  <img 
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-ab&count_private=true&show_icons=true&hide_border=true&locale=en&theme=tokyonight" />
 </p>
