@@ -60,7 +60,7 @@ Stackoverflow               -  [Check out!](https://stackoverflow.com/users/1601
 
 ## Resume 
 
-  [My Resume](https://drive.google.com/file/d/1sdSDALGqeGmLnTIgtksuPqGxR46A2cdY/view)
+ [My Resume](https://drive.google.com/file/d/1sdSDALGqeGmLnTIgtksuPqGxR46A2cdY/view)
   
 ### My Projects ✨
   
